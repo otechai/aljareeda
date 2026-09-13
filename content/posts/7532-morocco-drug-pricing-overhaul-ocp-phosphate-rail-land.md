@@ -85,4 +85,4 @@ Smaller administrative items that won't change daily life for most readers but a
 
 ---
 
-*This digest was generated from Morocco's Official Gazette (Bulletin Officiel), issue №7532 of August 6, 2026. Read the original Arabic-language source PDF here: [BO_7532_Ar.pdf](https://www.sgg.gov.ma/BO/AR/3111/2026/BO_7532_Ar.pdf).*
+*This digest was generated from Morocco's Official Gazette (Bulletin Officiel), issue №7532 of August 6, 2026. Read the original source PDF here: [BO_7532_Ar.pdf](https://www.sgg.gov.ma/BO/AR/3111/2026/BO_7532_Ar.pdf).*

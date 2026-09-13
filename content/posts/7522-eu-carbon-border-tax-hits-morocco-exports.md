@@ -90,5 +90,5 @@ Morocco's industry and finance ministries imposed a definitive antidumping duty,
 - The list of labs authorized to run agricultural analyses was updated.
 - Industry testing lab "Analysis and Control Laboratory" (ACLAB) in Nador had its accreditation extended to cover new product categories, including textiles, ceramic tiles, and detergents.
 
-*This digest was generated from Morocco's Official Gazette (Bulletin Officiel), issue №7522 of 2 July 2026. Read the original Arabic-language source PDF here: [BO_7522_Fr.pdf](https://www.sgg.gov.ma/BO/FR/2873/2026/BO_7522_Fr.pdf).*
+*This digest was generated from Morocco's Official Gazette (Bulletin Officiel), issue №7522 of 2 July 2026. Read the original source PDF here: [BO_7522_Fr.pdf](https://www.sgg.gov.ma/BO/FR/2873/2026/BO_7522_Fr.pdf).*
 

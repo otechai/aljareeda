@@ -79,4 +79,4 @@ A batch of smaller, mostly administrative reforms that won't affect daily life f
 
 ---
 
-*This digest was generated from Morocco's Official Gazette (Bulletin Officiel), issue №7533 of August 10, 2026. Read the original Arabic-language source PDF here: [BO_7533_Ar.pdf](https://www.sgg.gov.ma/BO/AR/3111/2026/BO_7533_Ar.pdf).*
+*This digest was generated from Morocco's Official Gazette (Bulletin Officiel), issue №7533 of August 10, 2026. Read the original source PDF here: [BO_7533_Ar.pdf](https://www.sgg.gov.ma/BO/AR/3111/2026/BO_7533_Ar.pdf).*

@@ -39,4 +39,4 @@ In Morocco's far south, the Equipment and Water Ministry approved the internal l
 - Routine signature-delegation orders were issued for officials at the Health, Finance, Interior and Tourism ministries, and for a nursing-training institute in Rabat/Kénitra.
 - The National Architects' Council published three disciplinary rulings — originally decided back in 2019 but only now published after exhausting all court appeals — suspending architects Fouad Abnou El Khattabi, Mohamed Karim El Ferji El Jadidi and Mokhtar Boufounas from practice for six months each, following cases handled by the Tangier regional disciplinary board.
 
-*This digest was generated from Morocco's Official Gazette (Bulletin Officiel), issue №7528 of July 23, 2026. Read the original Arabic-language source PDF here: [BO_7528_Ar.pdf](https://www.sgg.gov.ma/BO/AR/3111/2026/BO_7528_Ar.pdf).*
+*This digest was generated from Morocco's Official Gazette (Bulletin Officiel), issue №7528 of July 23, 2026. Read the original source PDF here: [BO_7528_Ar.pdf](https://www.sgg.gov.ma/BO/AR/3111/2026/BO_7528_Ar.pdf).*

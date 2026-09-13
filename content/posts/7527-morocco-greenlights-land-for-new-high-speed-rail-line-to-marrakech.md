@@ -60,4 +60,4 @@ A batch of decrees expropriates small parcels of private and community land to m
 - A three-year supply agreement (cahier des charges) was published governing explosives used in traditional artisanal mining in the Tafilalet–Figuig mining zone.
 - Two joint Interior/Agriculture ministry decrees subdivided shared ownership of the "Ahmed Lakhrichate" and "Rayana" collective lands among their rightful owners in Larache province, within the Loukkos irrigation perimeter.
 
-*This digest was generated from Morocco's Official Gazette (Bulletin Officiel), issue №7527 of 20 July 2026. Read the original Arabic-language source PDF here: [BO_7527_Ar.pdf](https://www.sgg.gov.ma/BO/AR/3111/2026/BO_7527_Ar.pdf).*
+*This digest was generated from Morocco's Official Gazette (Bulletin Officiel), issue №7527 of 20 July 2026. Read the original source PDF here: [BO_7527_Ar.pdf](https://www.sgg.gov.ma/BO/AR/3111/2026/BO_7527_Ar.pdf).*

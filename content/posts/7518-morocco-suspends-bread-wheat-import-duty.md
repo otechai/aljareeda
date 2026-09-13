@@ -43,4 +43,4 @@ Countries covered in this batch include **Ukraine** (multiple medical specialtie
 - Two new aquaculture farms were authorized: "Cintra Pro-Coquillage" (shellfish) and "Mifa Equipement Souss Massa."
 - SGS Maroc's accreditation to assess industrial product conformity was renewed, and a Bank Al-Maghrib-appointed liquidator's mandate for the financing company DIAC SALAF was extended by one year.
 
-*This digest was generated from Morocco's Official Gazette (Bulletin Officiel), issue №7518 of 18 June 2026. Read the original French-language source PDF here: [BO_7518_Fr.pdf](https://www.sgg.gov.ma/BO/FR/2873/2026/BO_7518_Fr.pdf).*
+*This digest was generated from Morocco's Official Gazette (Bulletin Officiel), issue №7518 of 18 June 2026. Read the original source PDF here: [BO_7518_Fr.pdf](https://www.sgg.gov.ma/BO/FR/2873/2026/BO_7518_Fr.pdf).*

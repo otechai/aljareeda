@@ -47,7 +47,8 @@ pagination.pagerSize = 10
     list = "right"
     single = "right"
     # "search" widget needs external wiring (see note above) — omitted until that's set up
-    widgets = ["recent", "categories", "taglist", "social"]
+    widgets = ["recent", "categories", "taglist"]
+    # widgets = ["recent", "categories", "taglist", "social"]
 
   [params.widgets]
     recent_num = 5

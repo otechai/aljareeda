@@ -27,4 +27,4 @@ Why this matters beyond bureaucracy: Awqaf assets touch ordinary religious life 
 - **Foreign degree recognition** — Sixteen separate rulings by the Ministry of Higher Education recognized specific foreign engineering, computer science, and related degrees (from universities in Canada, China, and South Korea, among others) as equivalent to Moroccan qualifications (dated July 20, 2026).
 - **Traffic accident fund board** — The Minister of Economy and Finance appointed nine members to the board of Morocco's Traffic Accident Guarantee Fund for a three-year term starting July 23, 2026, replacing a 2023 appointment.
 
-*This digest was generated from Morocco's Official Gazette (Bulletin Officiel), issue №7539 of August 31, 2026. Read the original Arabic-language source PDF here: [BO_7539_Ar.pdf](https://www.sgg.gov.ma/BO/AR/3111/2026/BO_7539_Ar.pdf).*
+*This digest was generated from Morocco's Official Gazette (Bulletin Officiel), issue №7539 of August 31, 2026. Read the original source PDF here: [BO_7539_Ar.pdf](https://www.sgg.gov.ma/BO/AR/3111/2026/BO_7539_Ar.pdf).*

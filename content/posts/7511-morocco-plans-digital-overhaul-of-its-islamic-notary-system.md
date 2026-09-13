@@ -49,4 +49,4 @@ State administrations and local governments will exceptionally shut down on **Fr
 - Routine orders appointed deputy spending-authorization officers at the Health Ministry and the Tourism Ministry.
 - A correction was issued for an error in Bulletin Officiel issue №7506 concerning the boundary of public maritime land in Guelmim province.
 
-*This digest was generated from Morocco's Official Gazette (Bulletin Officiel), issue №7511 of May 25, 2026. Read the original Arabic-language source PDF here: [BO_7511_Ar.pdf](https://www.sgg.gov.ma/BO/AR/3111/2026/BO_7511_Ar.pdf).*
+*This digest was generated from Morocco's Official Gazette (Bulletin Officiel), issue №7511 of May 25, 2026. Read the original source PDF here: [BO_7511_Ar.pdf](https://www.sgg.gov.ma/BO/AR/3111/2026/BO_7511_Ar.pdf).*

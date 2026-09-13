@@ -51,4 +51,4 @@ Morocco's higher education ministry expanded its list of foreign medical diploma
 
 - Five-year renewals of import-conformity accreditation for three international product-inspection firms operating in Morocco: **SGS Maroc**, **TÜV Rheinland**, and **Intertek Labtest**.
 
-*This digest was generated from Morocco's Official Gazette (Bulletin Officiel), issue №7526 of 16 July 2026. Read the original Arabic-language source PDF here: [BO_7526_Fr.pdf](https://www.sgg.gov.ma/BO/FR/2873/2026/BO_7526_Fr.pdf).*
+*This digest was generated from Morocco's Official Gazette (Bulletin Officiel), issue №7526 of 16 July 2026. Read the original source PDF here: [BO_7526_Fr.pdf](https://www.sgg.gov.ma/BO/FR/2873/2026/BO_7526_Fr.pdf).*

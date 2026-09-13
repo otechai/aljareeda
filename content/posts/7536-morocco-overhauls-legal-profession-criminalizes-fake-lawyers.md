@@ -48,4 +48,4 @@ The government has formally declared it a matter of public interest to reinforce
 - Taza province: final administrative delimitation of the "Jbel Rouf" tribal collective land (about 68 hectares), belonging to the Beni Amhamed ethnic community. *(Decree 2.26.558, 19 Safar 1448 / 3 August 2026)*
 - Ain Attig commune (Skhirat-Témara): two local council decisions finalize road boundaries and mark out plots for expropriation along routes AAT111 and AAT97. *(Decisions 777.26 and 778.26, 7 Shawwal 1447 / 26 March 2026)*
 
-*This digest was generated from Morocco's Official Gazette (Bulletin Officiel), issue №7536 of 20 August 2026. Read the original Arabic-language source PDF here: [BO_7536_Ar.pdf](https://www.sgg.gov.ma/BO/AR/3111/2026/BO_7536_Ar.pdf).*
+*This digest was generated from Morocco's Official Gazette (Bulletin Officiel), issue №7536 of 20 August 2026. Read the original source PDF here: [BO_7536_Ar.pdf](https://www.sgg.gov.ma/BO/AR/3111/2026/BO_7536_Ar.pdf).*

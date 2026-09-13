@@ -71,4 +71,4 @@ These are procedural/governance reforms rather than personnel announcements — 
 - The Health Ministry delegated budget and procurement-signing authority to the director of the Higher Institute of Nursing Professions and Health Techniques in Agadir.
 - Updated civil-service grade and pay-scale tables for various public health, engineering, technical and administrative corps — the tables mostly confirm "no change" to existing structures.
 
-*This digest was generated from Morocco's Official Gazette (Bulletin Officiel), issue №7537 of August 24, 2026. Read the original Arabic-language source PDF here: [BO_7537_Ar.pdf](https://www.sgg.gov.ma/BO/AR/3111/2026/BO_7537_Ar.pdf).*
+*This digest was generated from Morocco's Official Gazette (Bulletin Officiel), issue №7537 of August 24, 2026. Read the original source PDF here: [BO_7537_Ar.pdf](https://www.sgg.gov.ma/BO/AR/3111/2026/BO_7537_Ar.pdf).*

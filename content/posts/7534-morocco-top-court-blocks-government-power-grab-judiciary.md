@@ -47,4 +47,4 @@ The government approved a new urban development plan and zoning regulation cover
 - The Constitutional Court also ruled that recognizing a Fez alumni association as being of "public interest" falls under regulatory (not legislative) authority, meaning it can be amended by simple decree. *(Decision 279.26, 10 August 2026)*
 - Numerous routine spending-authorization delegations were issued across regional agriculture, infrastructure, and finance departments.
 
-*This digest was generated from Morocco's Official Gazette (Bulletin Officiel), issue №7534 of 13 August 2026. Read the original Arabic-language source PDF here: [BO_7534_Ar.pdf](https://www.sgg.gov.ma/BO/AR/3111/2026/BO_7534_Ar.pdf).*
+*This digest was generated from Morocco's Official Gazette (Bulletin Officiel), issue №7534 of 13 August 2026. Read the original source PDF here: [BO_7534_Ar.pdf](https://www.sgg.gov.ma/BO/AR/3111/2026/BO_7534_Ar.pdf).*

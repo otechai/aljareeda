@@ -49,4 +49,4 @@ The Ministry of Equipment and Water has authorized the state to take ownership o
 - Several medical and architecture diploma equivalence decisions were issued, including recognition of a medicine degree from the Université de Thiès (Senegal) and an architecture degree from Nizhny Novgorod State University (Russia).
 - A two-month public inquiry opened on delimiting the maritime public domain of Chaâtea Essnoubar beach in Benslimane province, plus routine signature-delegation and deputy-paymaster appointment orders at the Ministry of Economy and Finance.
 
-*This digest was generated from Morocco's Official Gazette (Bulletin Officiel), issue №7529 of 27 July 2026. Read the original Arabic-language source PDF here: [BO_7529_Ar.pdf](https://www.sgg.gov.ma/BO/AR/3111/2026/BO_7529_Ar.pdf).*
+*This digest was generated from Morocco's Official Gazette (Bulletin Officiel), issue №7529 of 27 July 2026. Read the original source PDF here: [BO_7529_Ar.pdf](https://www.sgg.gov.ma/BO/AR/3111/2026/BO_7529_Ar.pdf).*
