@@ -21,7 +21,7 @@ pagination.pagerSize = 10
 [Author]
   name = "Otmane Echaibi"
   bio = "Aljareeda reads Morocco's Bulletin Officiel so you don't have to — translated, filtered, and written in plain English for Moroccan expats, everyday Moroccans, and the international public."
-  avatar = "img/aljareeda-logo.png"
+  avatar = "img/aljareeda.png"
 
 [params]
   description = "Morocco's official gazette, translated into news for Moroccan expats, everyday Moroccans, and the international public — investment, infrastructure, rights, accountability, and MRE policy, sourced straight from government paperwork."
@@ -35,7 +35,7 @@ pagination.pagerSize = 10
   googleAnalytics = ""       # optional: paste tracking ID if/when you add GA
 
   [params.logo]
-    image = "img/aljareeda-logo.png"
+    image = "img/aljareeda.png"
     title = "Aljareeda"
     subtitle = "News from Morocco's Official Gazette — for the diaspora, everyday Moroccans, and the world"
 
